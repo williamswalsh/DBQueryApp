@@ -1,5 +1,8 @@
 package account;
-
+/*
+This class models a users account.
+It contains three encapsulated variables userID, firstName and lastName.
+*/
 public class UserAccount {
 	private long userID;
 	private String firstName;
